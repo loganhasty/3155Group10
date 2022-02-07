@@ -1,1 +1,6 @@
+User Scenario: Justin, 37, Born in Michigan and recent transplant to North Carolina. He has very few networking connections. Graduating Spring 2022, he is looking for full time work and a change in career fields.
+User Story: I’m looking for a platform that will help me target entry level positions in a computer science field and explore local companies that I might otherwise have no method of learning about.  Many of the other platforms often require me to rewrite my resume, and with 20 years of experience that becomes a very cumbersome task. 
+Features: 
+Quickly, easily and simply view the job title, description, salary and requirements of open job listings. 
+Easily apply to these positions utilizing existing resume and profile information, without the need to retype everything.
 
