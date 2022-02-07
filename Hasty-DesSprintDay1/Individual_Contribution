@@ -1,0 +1,8 @@
+User scenario: Jorden is a student who is set to graduate at the end of this semester. He needs to find a platform that helps him search and apply to roles matching his skill set, to reach his ultimate goal of gaining full-time employment within six months of graduation.
+
+User story: As a computer science major nearing graduation, I need to find a product that will help me search and apply for software engineering roles so that I can gain employment within six months of graduation.
+
+Features:
+• Filter jobs based on skill set (swipe feature similar to Tinder™️)
+• Upload resumé for discovery by employers
+• DM networking feature (similar to LinkedIn™️)
